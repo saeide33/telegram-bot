@@ -1,5 +1,4 @@
- پیام
-    all_messages.append({
+ all_messages.append({
         "name": user.full_name,
         "username": user.username,
         "text": user_text
